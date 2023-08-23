@@ -4,7 +4,6 @@
 Aztec is a first-of-its-kind hybrid zkRollup supporting both public and private smart contract execution.  It will allow developers to build fully programable, privacy preserving smart contracts, with composable call semantics using our ZK-Snark programming language, Noir.
 
 ## About ZKCamp
-
 [ZKCamp](www.zkcamp.xyz) is a ZK education company. ZKCamp's primary offering is a live cohort-based course that teaches ZKPs and their underlying mathematical and cryptographic principles using hands-on examples and engaging assessments. The course is tailored for engineers who do not have a math or cryptography background but are eager to learn it. Through a structured curriculum and live sessions with instructors, participants will have the opportunity to learn and engage with the material in a collaborative environment. Upon completion of the course, participants will have the knowledge and skills necessary to build decentralized applications based on ZKPs.
 
 
@@ -21,7 +20,6 @@ The shift from traditional development to building ZKP applications with Noir in
 ## Prerequisites
 
 1. Read this [blog](https://www.zkcamp.xyz/blog/what-is-a-zkp-anyway) to make sure you have a basic understanding of what zero-knowledge proofs are all about.
-
 2. Zero-knowledge proofs are based on certain mathematical primitives. Read the blogs below to get a basic understanding of the underlying mathematics
 
     * [Polynomials](https://www.zkcamp.xyz/blog/you-cant-understand-zkps-without-understanding-polynomials)
@@ -44,7 +42,7 @@ It’s like the first day of school! This is when you will meet with your fellow
 
 <br/>
 <li><a href = "">Recording</a></li>
-<li><a href = "https://docs.google.com/presentation/d/1XKKT-raoVhalZCDKRyKaEmtxsxkQlbjlBdYMYcTcMV4/edit?usp=sharing">Slides</a></li>
+<li><a href = "https://docs.google.com/presentation/d/e/2PACX-1vR7nYLpmDcvo61PXX1t_uDdHjAFpAyJRAHYVSY0Ogzt6K6_eZgVZQAXRxIAQI4znf2gba2IE59trzCv/pub?start=false&loop=false&delayms=3000">Slides</a></li>
 </details>
 
 <details>
@@ -64,7 +62,7 @@ We will dive into the basics of the Noir language by walking through a collectio
 
 <br/>
 <li><a href = "">Recording</a></li>
-<li><a href = "https://docs.google.com/presentation/d/1ZM60_cczs80xAndxccbH0-GGO2mD8oiXP9hFF74h-sI/edit?usp=sharin">Slides</a></li>
+<li><a href = "https://docs.google.com/presentation/d/e/2PACX-1vTRpVg9MbqNSwzHXsgJzWopxmbfPO3Lc-ZAeqA73hlrsj_B7LptI1_dDWXOwCNhjmRS48zHkTEpb4dY/pub?start=false&loop=false&delayms=3000">Slides</a></li>
 <li><a href="./quiz/noir-basics.md">Quiz - Noir Basics</a></li>
 <li><a href="https://github.com/ZKCamp/noir-toy-hashing-assignment">Assignment - Toy hashing alogrithm in Noir</a></li>
 </details>
@@ -76,7 +74,7 @@ Just knowing the Noir programming language is not enough. To build private and d
 
 <br/>
 <li><a href = "">Recording</a></li>
-<li><a href = "https://docs.google.com/presentation/d/1sNj0jtIRZqCoflMGb1Fo9TSkhgRl7h12m6Fz2T87BWg/edit?usp=sharing">Slides</a></li>
+<li><a href = "https://docs.google.com/presentation/d/e/2PACX-1vRZXMqGfC627bK0zVODX6URgiZAhurbhxULWIgLzSigvuRmUJ4YmAP4Sv09fJ96lf-CPAG2uFPrweoY/pub?start=false&loop=false&delayms=3000">Slides</a></li>
 <li> 
     Reading Material - Refer to the following branches of <a href="https://github.com/ZKCamp/noir-voting">this</a> repo
     <ul>
@@ -94,7 +92,7 @@ Part 2 of Building a Noir Application
 
 <br/>
 <li><a href = "">Recording</a></li>
-<li><a href = "https://docs.google.com/presentation/d/1Tr0cuEiJy5rEvLt0tUbRXggKHc41V6d7cwd6ifW0m3E/edit?usp=sharing">Slides</a></li>
+<li><a href = "https://docs.google.com/presentation/d/e/2PACX-1vQ-L6f9yc-zoCPrkVuOPphsZC1H6HOU--N03AxR3lmDyE83mYCaB4gnA-BSuYOvBiHX6E_KXg-UpSjN/pub?start=false&loop=false&delayms=3000">Slides</a></li>
 <li><a href = "https://github.com/ZKCamp/stealthdrop-assignment">Assignment - StealthDrop in Noir</a></li>
 <li> 
     Reading Material - Refer to the following branches of <a href="https://github.com/ZKCamp/noir-voting">this</a> repo
@@ -114,7 +112,8 @@ After understanding the fundamentals, we will cover some advanced topics so that
 
 <br/>
 <li><a href = "">Recording</a></li>
-<li><a href = "https://docs.google.com/presentation/d/1W1OJYNM9itpXrMISHLPY2KLq_W5mp8dDBmAdSTfaa2s/edit?usp=sharing">Slides</a></li>
+<li><a href = "https://docs.google.com/presentation/d/e/2PACX-1vSamWI7cXmA8LxkBqMrHG983saaThhLsuc5h45dhbOvGeG2n5-MuR7lBcLqpBjIqQHFp2t2uL50HNIz/pub?start=false&loop=false&delayms=3000">Slides (Rajesh)</a></li>
+<li><a href = "https://docs.google.com/presentation/d/1FTiDRAAGBvs7UiQMQTcqeS6uO4ko2CbhRfU4c80k9LM/edit#slide=id.g23d1b8ba2aa_0_199">Slides (Josh)</a></li>
 <li> 
     Reading Material - Refer to the following branches of <a href="https://github.com/ZKCamp/noir-voting">this</a> repo
     <ul>
