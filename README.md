@@ -41,7 +41,7 @@ Lectures are of 90 min each. Each of the items below has the lecture recording, 
 It’s like the first day of school! This is when you will meet with your fellow ZKCampers who will be your ride or die for the next 1 week. We will also review the curriculum, set expectations, and cover some of the Zero-Knowledge Proofs fundamentals.
 
 <br/>
-<li><a href = "">Recording</a></li>
+<li><a href = "https://youtu.be/3tuQP3Su1r4">Recording</a></li>
 <li><a href = "https://docs.google.com/presentation/d/e/2PACX-1vR7nYLpmDcvo61PXX1t_uDdHjAFpAyJRAHYVSY0Ogzt6K6_eZgVZQAXRxIAQI4znf2gba2IE59trzCv/pub?start=false&loop=false&delayms=3000">Slides</a></li>
 </details>
 
@@ -51,7 +51,7 @@ It’s like the first day of school! This is when you will meet with your fellow
 We will introduce you to Noir, which is the private smart contract language that you will use to deploy apps on the Aztec network. You will also learn how Noir fits into the blockchain ecosystem and how it compares to some existing domain-specific languages like Circom.
 
 <br/>
-<li><a href = "">Recording</a></li>
+<li><a href = "https://youtu.be/w8blpTC4O9Y">Recording</a></li>
 <li><a href = "https://docs.google.com/presentation/d/13ZYuCStLETBojSshZ1NIorDFa3dqirvJKCE2yjoqCMY/preview?usp=embed_googleplus">Slides</a></li>
 </details>
 
@@ -61,9 +61,10 @@ We will introduce you to Noir, which is the private smart contract language that
 We will dive into the basics of the Noir language by walking through a collection of Noir programs which cover all the concepts of the language. You will also use these newly found skills to build a toy program with Noir.
 
 <br/>
-<li><a href = "">Recording</a></li>
+<li><a href = "https://youtu.be/fKH3r8cDD_Y">Recording</a></li>
 <li><a href = "https://docs.google.com/presentation/d/e/2PACX-1vTRpVg9MbqNSwzHXsgJzWopxmbfPO3Lc-ZAeqA73hlrsj_B7LptI1_dDWXOwCNhjmRS48zHkTEpb4dY/pub?start=false&loop=false&delayms=3000">Slides</a></li>
 <li><a href="./quiz/noir-basics.md">Quiz - Noir Basics</a></li>
+<li><a href="./quiz/noir-basics-solutions.md">Quiz Solutions - Noir Basics</a></li>
 <li><a href="https://github.com/ZKCamp/noir-toy-hashing-assignment">Assignment - Toy hashing alogrithm in Noir</a></li>
 </details>
 
@@ -73,7 +74,7 @@ We will dive into the basics of the Noir language by walking through a collectio
 Just knowing the Noir programming language is not enough. To build private and decentralized applications, you will learn how to setup a project, use Noir CLI, generate a verifier contract, and also integrate it with the frontend. By the end, you will be fully equipped to write and deploy Noir applications.
 
 <br/>
-<li><a href = "">Recording</a></li>
+<li><a href = "https://youtu.be/DsuhSVXSB5w">Recording</a></li>
 <li><a href = "https://docs.google.com/presentation/d/e/2PACX-1vRZXMqGfC627bK0zVODX6URgiZAhurbhxULWIgLzSigvuRmUJ4YmAP4Sv09fJ96lf-CPAG2uFPrweoY/pub?start=false&loop=false&delayms=3000">Slides</a></li>
 <li> 
     Reading Material - Refer to the following branches of <a href="https://github.com/ZKCamp/noir-voting">this</a> repo
@@ -91,7 +92,7 @@ Just knowing the Noir programming language is not enough. To build private and d
 Part 2 of Building a Noir Application
 
 <br/>
-<li><a href = "">Recording</a></li>
+<li><a href = "https://youtu.be/UZiUfh5eO7I">Recording</a></li>
 <li><a href = "https://docs.google.com/presentation/d/e/2PACX-1vQ-L6f9yc-zoCPrkVuOPphsZC1H6HOU--N03AxR3lmDyE83mYCaB4gnA-BSuYOvBiHX6E_KXg-UpSjN/pub?start=false&loop=false&delayms=3000">Slides</a></li>
 <li><a href = "https://github.com/ZKCamp/stealthdrop-assignment">Assignment - StealthDrop in Noir</a></li>
 <li> 
@@ -111,7 +112,7 @@ Part 2 of Building a Noir Application
 After understanding the fundamentals, we will cover some advanced topics so that you can understand Noir at a deeper level. We will dive into topics such as Noir's novel intermediate representation (ACIR), constraints optimizations, and security.
 
 <br/>
-<li><a href = "">Recording</a></li>
+<li><a href = "https://youtu.be/jghEF5WQ5G8">Recording</a></li>
 <li><a href = "https://docs.google.com/presentation/d/e/2PACX-1vSamWI7cXmA8LxkBqMrHG983saaThhLsuc5h45dhbOvGeG2n5-MuR7lBcLqpBjIqQHFp2t2uL50HNIz/pub?start=false&loop=false&delayms=3000">Slides (Rajesh)</a></li>
 <li><a href = "https://docs.google.com/presentation/d/1FTiDRAAGBvs7UiQMQTcqeS6uO4ko2CbhRfU4c80k9LM/edit#slide=id.g23d1b8ba2aa_0_199">Slides (Josh)</a></li>
 <li> 
