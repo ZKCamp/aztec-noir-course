@@ -46,7 +46,7 @@ It’s like the first day of school! This is when you will meet with your fellow
 <li><a href = "">Recording</a></li>
 <li><a href = "https://docs.google.com/presentation/d/1XKKT-raoVhalZCDKRyKaEmtxsxkQlbjlBdYMYcTcMV4/edit?usp=sharing">Slides</a></li>
 </details>
-<br/>
+
 <details>
 <summary><b>&nbsp;Lecture 2 - Introduction to Aztec Ecosystem</b></summary>
 <br/>
@@ -56,7 +56,7 @@ We will introduce you to Noir, which is the private smart contract language that
 <li><a href = "">Recording</a></li>
 <li><a href = "https://docs.google.com/presentation/d/13ZYuCStLETBojSshZ1NIorDFa3dqirvJKCE2yjoqCMY/preview?usp=embed_googleplus">Slides</a></li>
 </details>
-<br/>
+
 <details>
 <summary><b>&nbsp;Lecture 3 - Noir Basics</b></summary>
 <br/>
@@ -68,7 +68,7 @@ We will dive into the basics of the Noir language by walking through a collectio
 <li><a href="./quiz/noir-basics.md">Quiz - Noir Basics</a></li>
 <li><a href="https://github.com/ZKCamp/noir-toy-hashing-assignment">Assignment - Toy hashing alogrithm in Noir</a></li>
 </details>
-<br/>
+
 <details>
 <summary><b>&nbsp;Lecture 4 - Building a Noir Application - Part 1</b></summary>
 <br/>
@@ -86,7 +86,7 @@ Just knowing the Noir programming language is not enough. To build private and d
 
 </li> 
 </details>
-<br/>
+
 <details>
 <summary><b>&nbsp;Lecture 5 - Building a Noir Application - Part 2</b></summary>
 <br/>
@@ -106,7 +106,7 @@ Part 2 of Building a Noir Application
 
 </li> 
 </details>
-<br/>
+
 <details>
 <summary><b>&nbsp;Lecture 6 - Advanced Noir</b></summary>
 <br/>
