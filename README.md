@@ -1,4 +1,4 @@
-# ZKCamp's Aztec Course
+# ZKCamp's Aztec Noir Course
 
 ## About Aztec
 Aztec is a first-of-its-kind hybrid zkRollup supporting both public and private smart contract execution.  It will allow developers to build fully programable, privacy preserving smart contracts, with composable call semantics using our ZK-Snark programming language, Noir.
