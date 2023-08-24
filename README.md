@@ -38,7 +38,7 @@ Lectures are of 90 min each. Each of the items below has the lecture recording, 
 <details>
 <summary><b>&nbsp;Lecture 1 - Cohort Introduction & ZKP Fundamentals</b></summary>
 <br/>
-It’s like the first day of school! This is when you will meet with your fellow ZKCampers who will be your ride or die for the next 1 week. We will also review the curriculum, set expectations, and cover some of the Zero-Knowledge Proofs fundamentals.
+The first lecture reviews the curriculum and covers some of the Zero-Knowledge Proofs fundamentals that will be useful for future lectures. The lecture ends with a meet and greet session amongst the ZKCampers in the cohort.
 
 <br/>
 <li><a href = "https://youtu.be/3tuQP3Su1r4">Recording</a></li>
@@ -48,7 +48,7 @@ It’s like the first day of school! This is when you will meet with your fellow
 <details>
 <summary><b>&nbsp;Lecture 2 - Introduction to Aztec Ecosystem</b></summary>
 <br/>
-We will introduce you to Noir, which is the private smart contract language that you will use to deploy apps on the Aztec network. You will also learn how Noir fits into the blockchain ecosystem and how it compares to some existing domain-specific languages like Circom.
+In this lecture, Josh, from developer relations at Aztec, provides an introduction to Aztec. The lecture touches upon the history of Aztec, its differentiation from other L1/L2 protocols, Aztec's architecture, Noir's place within the Aztec ecosystem, and the future roadmap for Aztec.
 
 <br/>
 <li><a href = "https://youtu.be/w8blpTC4O9Y">Recording</a></li>
@@ -58,7 +58,7 @@ We will introduce you to Noir, which is the private smart contract language that
 <details>
 <summary><b>&nbsp;Lecture 3 - Noir Basics</b></summary>
 <br/>
-We will dive into the basics of the Noir language by walking through a collection of Noir programs which cover all the concepts of the language. You will also use these newly found skills to build a toy program with Noir.
+This lectures explores the foundational concepts of the Noir language by examining a series of Noir programs. The lecture discusses topics such as Primitive and Compound Data Types, Constraints, and writing tests.
 
 <br/>
 <li><a href = "https://youtu.be/fKH3r8cDD_Y">Recording</a></li>
@@ -71,8 +71,8 @@ We will dive into the basics of the Noir language by walking through a collectio
 <details>
 <summary><b>&nbsp;Lecture 4 - Building a Noir Application - Part 1</b></summary>
 <br/>
-Just knowing the Noir programming language is not enough. To build private and decentralized applications, you will learn how to setup a project, use Noir CLI, generate a verifier contract, and also integrate it with the frontend. By the end, you will be fully equipped to write and deploy Noir applications.
-
+Just knowing the Noir programming language is not enough. To build private and decentralized applications, one needs to learn how to setup a project, use Noir CLI, generate a verifier contract, and also integrate it with the frontend. 
+In the first part of a two part lecture series, students learn how to build a private DAO app in Noir from scratch. Students are also introduced to couple of ZK primitives - Identity Commitment and Merkle Trees.
 <br/>
 <li><a href = "https://youtu.be/DsuhSVXSB5w">Recording</a></li>
 <li><a href = "https://docs.google.com/presentation/d/e/2PACX-1vRZXMqGfC627bK0zVODX6URgiZAhurbhxULWIgLzSigvuRmUJ4YmAP4Sv09fJ96lf-CPAG2uFPrweoY/pub?start=false&loop=false&delayms=3000">Slides</a></li>
@@ -89,7 +89,7 @@ Just knowing the Noir programming language is not enough. To build private and d
 <details>
 <summary><b>&nbsp;Lecture 5 - Building a Noir Application - Part 2</b></summary>
 <br/>
-Part 2 of Building a Noir Application
+Part 2 of Building a Noir Application introduces the steps to generate, compose and test a Solidity Smart contract to manage the Private Voting for the DAO. Students are also introduced to the ZK primitive - Nullifers. Finally, students learn how to use Noir in the browser.
 
 <br/>
 <li><a href = "https://youtu.be/UZiUfh5eO7I">Recording</a></li>
@@ -109,7 +109,7 @@ Part 2 of Building a Noir Application
 <details>
 <summary><b>&nbsp;Lecture 6 - Advanced Noir</b></summary>
 <br/>
-After understanding the fundamentals, we will cover some advanced topics so that you can understand Noir at a deeper level. We will dive into topics such as Noir's novel intermediate representation (ACIR), constraints optimizations, and security.
+The first part of this lecture does a deep dive into topics such as Noir's novel intermediate representation (ACIR), constraints optimizations, and security. During the second half, Josh from Aztec covers topic like Recursion, Storage Proofs in Ethereum. He then sheds light on how students can actively participate in Noir through Aztec's grant initiatives.
 
 <br/>
 <li><a href = "https://youtu.be/jghEF5WQ5G8">Recording</a></li>
